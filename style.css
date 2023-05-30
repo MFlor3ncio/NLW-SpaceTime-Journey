@@ -107,6 +107,11 @@ nav {
   line-height: 28px;
 }
 
+.memory p a {
+  color: #5c5cad;
+  text-decoration: none;
+}
+
 aside {
   grid-area: profile;
 
